@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-mb3dzg.idncuan.xyz/sitemap.xml
